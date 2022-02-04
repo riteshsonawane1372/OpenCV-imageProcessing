@@ -11,7 +11,7 @@ rows = int(input("how much rows do you want ?"))
 columns = int(input("how many columns do you want ?")) # taking the input from user for no. of rows and columns 
 
 
-width =720      
+width =450    
 height =500               
 om = cv2.VideoCapture(0,cv2.CAP_DSHOW) 
 om.set(cv2.CAP_PROP_FRAME_WIDTH,width)   
