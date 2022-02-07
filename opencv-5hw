@@ -1,0 +1,9 @@
+CHECKBOX USING NUMPY
+
+    
+          In this program i have created a checkbox program using Cv2 and numpy from Open Cv if any error pls let me know abt It.. 😊
+          
+          > program will ask you follwoing input 
+          
+          1. size of the window (1000 is good )
+          2. size of the box  ( any where between 10-40 is great ) 
