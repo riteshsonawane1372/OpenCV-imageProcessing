@@ -18,6 +18,11 @@
   
   
   ![image](https://user-images.githubusercontent.com/72307121/152837018-52c52785-c529-4100-be3d-e634125c4f64.png)
+  
+  
+  > OpenCV -6 
+
+	In this i have learnt to create objects on the window with the text 
 
 	
 	
